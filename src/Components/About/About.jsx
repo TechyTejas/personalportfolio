@@ -35,7 +35,7 @@ const About = () => {
               <hr style={{ width: "100%" }}></hr>
             </div>
             <div className="about-skill">
-              <p>JavScript</p>
+              <p>JavaScript</p>
               <hr style={{ width: "80%" }}></hr>
             </div>
             <div className="about-skill">
@@ -65,3 +65,4 @@ const About = () => {
 };
 
 export default About;
+//51.16
